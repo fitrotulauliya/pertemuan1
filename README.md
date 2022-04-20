@@ -1,2 +1,1 @@
-# pertemuan1
-pertemuan1
+Tugas Praktikum 
